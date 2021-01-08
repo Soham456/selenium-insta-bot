@@ -110,6 +110,6 @@ driver.find_element_by_xpath('/html/body/div[4]/div/div/div/div[3]/button[2]').c
 
 
 #like()
-#person('sanjay_sawadkar7')
+#person('')
 following()
-#sanket07__
+
